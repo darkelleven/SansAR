@@ -1,2 +1,3 @@
-# SansAR
-this ia an AR heritage and preservation app and live guidance feature with AR tech
+# AR-Furniture
+Augmented Reality android app to visualize furniture.
+with ViedoNode in AR Scene
